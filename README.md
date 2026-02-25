@@ -108,9 +108,8 @@ The oil market is volatile. Sudden price shifts make decision-making difficult. 
 
 **Visual Placeholders:**  
 ![Dashboard Screenshot 1](images/Dashboard Screenshot 1.png)
-Insights\images\Dashboard Screenshot 1.png) 
 ![Dashboard Screenshot 2](images/Dashboard Screenshot 2.png)
-Insights\images\Dashboard Screenshot 2.png) 
+
 
 
 ---
