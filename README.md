@@ -1,5 +1,4 @@
-# 10 Academy: Artificial Intelligence Mastery – Week 11 Challenge
-## Change Point Analysis & Statistical Modeling of Brent Oil Prices
+# Change Point Analysis & Statistical Modeling of Brent Oil Prices
 **Author:** Bezawit - Assefa 
 **Date:** 10 Feb 2026
 
