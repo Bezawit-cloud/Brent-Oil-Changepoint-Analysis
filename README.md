@@ -29,7 +29,7 @@ The oil market is volatile. Sudden price shifts make decision-making difficult. 
 - Volatility increased after 2005  
 
 **Visual Placeholder:**  
-![Raw Brent Oil Prices Over Time](r"C:\Users\bezis\Downloads\Brent-Oil-Insights\images\raw prices.png")
+![Raw Brent Oil Prices Over Time](C:\Users\bezis\Downloads\Brent-Oil-Insights\images\raw prices.png)
 
 ---
 
@@ -48,14 +48,14 @@ The oil market is volatile. Sudden price shifts make decision-making difficult. 
 - Run MCMC sampling; check convergence (r_hat ~ 1, trace plots)  
 
 **Visual Placeholder:**  
-![Trace Plot Example](r"C:\Users\bezis\Downloads\Brent-Oil-Insights\images\Traces.png")
+![Trace Plot Example](C:\Users\bezis\Downloads\Brent-Oil-Insights\images\Traces.png)
 
 ### 3. Event Correlation & Impact Quantification
 - Compare detected change points with key geopolitical events and OPEC policy decisions  
 - Quantify impact: before/after mean prices, percent change, volatility  
 
 **Visual Placeholder:**  
-![Event Mapping Example](r"C:\Users\bezis\Downloads\Brent-Oil-Insights\images\events.png")
+![Event Mapping Example](C:\Users\bezis\Downloads\Brent-Oil-Insights\images\events.png)
 
 ---
 
@@ -106,8 +106,8 @@ The oil market is volatile. Sudden price shifts make decision-making difficult. 
   - Event highlighting & drill-down analysis  
 
 **Visual Placeholders:**  
-![Dashboard Screenshot 1](path_to_your_image/dashboard_1.png)  
-![Dashboard Screenshot 2](path_to_your_image/dashboard_2.png)
+![Dashboard Screenshot 1](C:\Users\bezis\Downloads\Brent-Oil-Insights\images\Dashboard Screenshot 1.png)  
+![Dashboard Screenshot 2](C:\Users\bezis\Downloads\Brent-Oil-Insights\images\Dashboard Screenshot 2.png)
 
 ---
 
