@@ -28,7 +28,7 @@ The oil market is volatile. Sudden price shifts make decision-making difficult. 
 - Volatility increased after 2005  
 
 **Visual Placeholder:**  
-![Raw Brent Oil Prices Over Time](images/raw_prices.png)
+![Raw Brent Oil Prices Over Time](images/raw prices.png)
 
 ---
 
@@ -107,9 +107,9 @@ The oil market is volatile. Sudden price shifts make decision-making difficult. 
   - Event highlighting & drill-down analysis  
 
 **Visual Placeholders:**  
-![Dashboard Screenshot 1](images/Dashboard_1.png)
+![Dashboard Screenshot 1](images/Dashboard Screenshot 1.png)
 Insights\images\Dashboard Screenshot 1.png) 
-![Dashboard Screenshot 2](images/Dashboard_2.png)
+![Dashboard Screenshot 2](images/Dashboard Screenshot 2.png)
 Insights\images\Dashboard Screenshot 2.png) 
 
 
