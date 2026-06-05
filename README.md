@@ -112,18 +112,24 @@ The oil market is volatile. Sudden price shifts make decision-making difficult. 
 ![Dashboard Screenshot 2](images/dashboard_2.png)
 
 ### Tech Stack
-
-- Python
-- PyMC
-- Pandas
-- NumPy
-- Matplotlib
-- ArviZ
-- Flask
-- React
-- PostgreSQL
-- Docker
+Programming & Data Analysis
+Python
+Pandas
+NumPy
+PyMC
+ArviZ
+Bayesian Change Point Analysis
+Markov Chain Monte Carlo (MCMC)
+Matplotlib
+Seaborn
+Flask
+REST API
+React
+Chart.js (or Recharts)
+Data Storage
+CSV Files
   ### Architecture diagram
+  ```
 Brent Oil Dataset
         ↓
 Data Processing
@@ -135,6 +141,7 @@ Analysis Results
 Flask API
         ↓
 React Dashboard
+```
 
 
 ---
